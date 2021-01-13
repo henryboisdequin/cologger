@@ -11,7 +11,7 @@ setup(
     description="Make your endless print statements with color, different formats, and more!",
     py_modules=["cologger"],
     url="https://github.com/henryboisdequin/cologger",
-    package_dir={"": "cologger"},
+    package_dir={"": "src"},
     license="MIT",
     classifiers=[
         "Development Status :: 3 - Alpha",
